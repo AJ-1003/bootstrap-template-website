@@ -1,4 +1,17 @@
-import { Html, Head, Main, NextScript } from 'next/document'
+// React
+
+// Next
+import { Html, Head, Main, NextScript } from 'next/document';
+
+// Contentful
+
+// Components
+
+// Images
+
+// Data
+
+// Styles
 
 export default function Document() {
   return (
@@ -9,5 +22,5 @@ export default function Document() {
         <NextScript />
       </body>
     </Html>
-  )
-}
+  );
+};
